@@ -1,0 +1,4 @@
+{
+  "UAT": "https://api-preprod.phonepe.com/apis/pg-sandbox",
+  "PROD": "https://mercury.phonepe.com"
+}
